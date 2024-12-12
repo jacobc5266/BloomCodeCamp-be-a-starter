@@ -1,4 +1,4 @@
-package com.hcc.controllers;
+package com.hcc.api.controllers;
 
 import com.hcc.entities.Hello;
 import com.hcc.services.HelloService;
